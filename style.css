@@ -1,0 +1,89 @@
+.h4,h1,h2,h3{
+    
+    text-align: center;
+    color: white;
+}
+.c1{
+    background-color: mediumblue;
+    color: white;
+
+}
+.c2{
+    background-color: white;
+    color: black;
+}
+.c3{
+    background-color: rgba(100, 148, 237, 0.692);
+    color: black;
+}
+.body{
+    background-color: rgb(3, 3, 73);
+
+}
+.t{
+    background-color: rgb(248, 91, 0);
+}
+.tr{
+    border: 1cm;
+    text-align: center;
+    background-color: black;
+    padding: 2cm;
+    margin: 2cm;   
+}
+td{
+    border: 1cm;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0.5cm;
+    margin: 0.5cm;   
+    border-collapse: collapse;
+    width: 4cm;
+
+}
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: #610b0b;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0.5cm;
+    margin: 0.5cm;   
+    border-collapse: collapse;
+    width: 4cm;  
+}
+.M04{
+    background-color: #910000;
+    color: white;
+
+}
+.M06{
+    background-color: #34fc02;
+    color: white;
+    
+}
+.M07{
+    background-color: #e0c009;
+    color: white;
+
+}
+.M08{
+    background-color: #e01686;
+    color: white;
+    
+}
+.M010{
+    background-color: #56cde2;
+    color: white;
+    
+}
+.M012{
+    background-color: #043000;
+    color: white;
+    
+}
+.patio{
+    background-color: #47083d;
+    color: white;
+}
